@@ -9,6 +9,8 @@ programa {
     escreva("Digite o valor por hora: R$")
     leia(valorHora)
     salario = qtdHoras * valorHora
+    escreva("\n============================\n")
     escreva("ID: " + id + "\nSalário: R$" + salario)
+    escreva("\n============================\n")
   }
 }
